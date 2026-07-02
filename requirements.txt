@@ -1,0 +1,9 @@
+## Requisitos
+
+- Python 3.8+
+- Chromium (se instala con `playwright install chromium`)
+
+## Instalación
+
+pip install -r requirements.txt
+playwright install chromium
